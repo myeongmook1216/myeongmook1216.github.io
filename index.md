@@ -1,7 +1,7 @@
 ---
 layout: page
 title: College student
-subtitle: Artificial Intelligence Research Laboratory, ETRI
+subtitle: Vision Image Processing Laboratory, VIP
 cover-img: /assets/img/fict1.jpg
 ---
 
