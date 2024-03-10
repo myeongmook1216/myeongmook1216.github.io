@@ -1,6 +1,6 @@
 ---
 layout: post
-title: project02
+title: Capstone Design02
 subtitle: project02-description
 gh-repo: seokho-son/seokho-son.github.io
 gh-badge: [star, fork, follow]
